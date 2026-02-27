@@ -1,0 +1,27 @@
+HomeTask9
+
+Internet usage and the choice of functions to be used is free. 
+
+Chat GPT is an exception
+
+
+#1. Import libraries, read the dataset and take a look at the first 5 lines
+#2. Look at data dimensionality
+#3. Printing out column names using columns
+#4. info() method to output general information about the dataframe, what you can tell about data types of fatures,explain it.
+#5. Show basic statistical characteristics.
+#6. Change "Churn" column type to 'int64'
+#7. Distribution of "Churn" column value counts
+#8. Calculating the normalized value counts of the "Churn" column
+#9. Sort by Churn and Total day charge columns in ascending and descending order respectively
+#10. What are average values of numerical features for churned users
+#11. How much time (on average) do churned users spend on the phone during daytime?
+#12. What is the maximum length of international calls among loyal users (who is not churn) who do not have an international plan?
+#13. We need the first or the last line of the data frame
+#14. Calculate the total number of calls for all users, let's create new the total_calls column
+#15. Calculate the average Total day minutes for each Area code.
+#16. Calculate the median Total night minutes for customers who made fewer than 3 Customer service calls.
+#17. Find the 75th percentile of Total day calls for customers who do not have a Voice mail plan.
+#18. Find the number of unique Area codes and the total number of customers in each Area code.
+#19. Calculate the percentage of customers from each state who have Number vmail messages greater than 10.
+#20. Find the maximum Total intl charge for each State and then display the states with the highest Total intl charge.
